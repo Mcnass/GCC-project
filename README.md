@@ -1,1 +1,1 @@
-# Gis Application project (collaborate)
+# GIS Application project
